@@ -16,7 +16,7 @@ Um portal de jogos clássicos desenvolvido para demonstrar habilidades em lógic
 
 ## 🕹️ Como Jogar Online
 Este projeto está disponível via GitHub Pages. Você pode testar diretamente no seu navegador através do link abaixo:
-> **file:///C:/Users/arthu/Projeto%203/index.html**
+> **https://arthurmoralesgoncalves-glitch.github.io/game-hub/**
 
 ## 📂 Como executar localmente
 1. Clone o repositório.

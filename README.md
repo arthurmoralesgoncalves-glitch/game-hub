@@ -16,7 +16,7 @@ Um portal de jogos clássicos desenvolvido para demonstrar habilidades em lógic
 
 ## 🕹️ Como Jogar Online
 Este projeto está disponível via GitHub Pages. Você pode testar diretamente no seu navegador através do link abaixo:
-> **[INSIRA O SEU LINK AQUI APÓS ATIVAR O GITHUB PAGES]**
+> **file:///C:/Users/arthu/Projeto%203/index.html**
 
 ## 📂 Como executar localmente
 1. Clone o repositório.
